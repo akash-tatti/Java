@@ -42,11 +42,11 @@ public class ArithmeticOperation {
         
 
         // Perform arithmetic operations.
-        short sum 		= short1 + short2;
-        short difference 	= short1 - short2;
-        short product 	= short1 * short2;
-        short quotient	= short1 / short2;
-        short modulo	    = short1 % short2;
+        short sum1 		= short1 + short2;
+        short difference1 	= short1 - short2;
+        short product1 	= short1 * short2;
+        short quotient1	= short1 / short2;
+        short modulo1	    = short1 % short2;
         
 
         // Print result to console.
@@ -69,11 +69,11 @@ public class ArithmeticOperation {
         
 
         // Perform arithmetic operations.
-        long sum 		= long1 + long2;
-        long difference 	= long1 - long2;
-        long product 	= long1 * long2;
-        long quotient	= long1 / long2;
-        long modulo	    = long1 % long2;
+        long sum2 		= long1 + long2;
+        long difference2 	= long1 - long2;
+        long product2 	= long1 * long2;
+        long quotient2	= long1 / long2;
+        long modulo2	    = long1 % long2;
         
 
         // Print result to console.
@@ -92,11 +92,11 @@ public class ArithmeticOperation {
         
 
         // Perform arithmetic operations.
-        float sum 		= float1 + float2;
-        float difference 	= float1 - float2;
-        float product 	= float1 * float2;
-        float quotient	= float1 / float2;
-        float modulo	    = float1 % float2;
+        float sum3		= float1 + float2;
+        float difference3 	= float1 - float2;
+        float product3 	= float1 * float2;
+        float quotient3	= float1 / float2;
+        float modulo3	    = float1 % float2;
         
 
         // Print result to console.
@@ -118,11 +118,11 @@ public class ArithmeticOperation {
         
 
         // Perform arithmetic operations.
-        double sum 		= double1 + double2;
-        double difference 	= double1 - double2;
-        double product 	= double1 * double2;
-        double quotient	= double1 / double2;
-        double modulo	    = double1 % double2;
+        double sum4 		= double1 + double2;
+        double difference4 	= double1 - double2;
+        double product4 	= double1 * double2;
+        double quotient4	= double1 / double2;
+        double modulo4	    = double1 % double2;
         
 
         // Print result to console.
