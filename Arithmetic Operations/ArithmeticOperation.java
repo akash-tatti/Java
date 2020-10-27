@@ -42,19 +42,19 @@ public class ArithmeticOperation {
         
 
         // Perform arithmetic operations.
-        short sum1 		= short1 + short2;
-        short difference1 	= short1 - short2;
-        short product1 	= short1 * short2;
-        short quotient1	= short1 / short2;
-        short modulo1	    = short1 % short2;
+        //short sum1 		= short1 + short2;
+        //short difference1 	= short1 - short2;
+        //short product1 	= short1 * short2;
+        //short quotient1	= short1 / short2;
+        //short modulo1	    = short1 % short2;
         
 
         // Print result to console.
-        System.out.println("Sum : "         + sum);
-        System.out.println("Difference : "  + difference);
-        System.out.println("Product : "     + product);
-        System.out.println("Quotient : "    + quotient);
-        System.out.println("Modulo : "      + modulo);
+        System.out.println("Sum : "         + (short1 + short2));
+        System.out.println("Difference : "  + (short1 - short2));
+        System.out.println("Product : "     + (short1 * short2));
+        System.out.println("Quotient : "    + (short1 / short2));
+        System.out.println("Modulo : "      + (short1 % short2));
 
 
 
@@ -77,11 +77,11 @@ public class ArithmeticOperation {
         
 
         // Print result to console.
-        System.out.println("Sum : "         + sum);
-        System.out.println("Difference : "  + difference);
-        System.out.println("Product : "     + product);
-        System.out.println("Quotient : "    + quotient);
-        System.out.println("Modulo : "      + modulo);
+        System.out.println("Sum : "         + sum2);
+        System.out.println("Difference : "  + difference2);
+        System.out.println("Product : "     + product2);
+        System.out.println("Quotient : "    + quotient2);
+        System.out.println("Modulo : "      + modulo2);
 
 
 
@@ -100,11 +100,11 @@ public class ArithmeticOperation {
         
 
         // Print result to console.
-        System.out.println("Sum : "         + sum);
-        System.out.println("Difference : "  + difference);
-        System.out.println("Product : "     + product);
-        System.out.println("Quotient : "    + quotient);
-        System.out.println("Modulo : "      + modulo);
+        System.out.println("Sum : "         + sum3);
+        System.out.println("Difference : "  + difference3);
+        System.out.println("Product : "     + product3);
+        System.out.println("Quotient : "    + quotient3);
+        System.out.println("Modulo : "      + modulo3);
 
 
 
@@ -126,11 +126,11 @@ public class ArithmeticOperation {
         
 
         // Print result to console.
-        System.out.println("Sum : "         + sum);
-        System.out.println("Difference : "  + difference);
-        System.out.println("Product : "     + product);
-        System.out.println("Quotient : "    + quotient);
-        System.out.println("Modulo : "      + modulo);
+        System.out.println("Sum : "         + sum4);
+        System.out.println("Difference : "  + difference4);
+        System.out.println("Product : "     + product4);
+        System.out.println("Quotient : "    + quotient4);
+        System.out.println("Modulo : "      + modulo4);
 
 
 
